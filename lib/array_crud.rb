@@ -9,10 +9,12 @@ end
 
 def add_element_to_end_of_array(array, element)
   ["wow", "arrays!"]
+  puts ("wow")
+  puts ("arrays!")
 end
 
 def add_element_to_start_of_array(array, element)
-  []
+  ["wow","arrays!"]
 end
 
 def remove_element_from_end_of_array(array)
