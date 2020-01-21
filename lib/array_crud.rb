@@ -8,12 +8,12 @@ end
 
 def add_element_to_end_of_array(array, element)
 array = ["I", "am", "really", "learning"]
-    array.last (3, "wow")
+    array.last 3, "wow"
 end
 
 def add_element_to_start_of_array(array, element)
 array = ["I", "am", "really", "learning"]
-    array.first (0, "wow")
+    array.first 0, "wow"
 end
 
 def remove_element_from_end_of_array(array)
